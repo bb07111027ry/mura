@@ -1,0 +1,44 @@
+head{
+scroll-padding-top:60px;
+
+}
+
+header{
+background-image:url("IMG_0418.jpeg");
+background-size:cover;
+height: 250px;
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+color:#B1063A;
+}
+
+.mo{
+background-color:#FFF8DC;
+padding:20px;
+}
+
+h2 {
+  display: inline-block;
+  border-left: solid 10px  ;
+　boder-padding-left:10px;
+}
+
+.ka{
+size: 50px;
+}
+
+.sho{
+padding-top:50px;
+}
+
+.こく{
+color:Crimson ;
+}
+
+
+
+}
